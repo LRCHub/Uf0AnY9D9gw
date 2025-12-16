@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "C・ムーン",
+  "base_artist": "Paul McCartney",
+  "createdAt": "2025-12-16T07:26:27.603711Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "C Moon",
+      "artist": "Paul McCartney",
+      "has_synced": false,
+      "path": "select/pl_01_C_Moon_Paul_McCartney.txt"
+    }
+  ]
+}
